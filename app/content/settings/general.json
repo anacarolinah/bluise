@@ -1,9 +1,7 @@
 {
   "title": "Homev",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Grow with Wildflower - ### 
-
-  Hey there! Wildflower Labs is here to give you a hand with all that boring and time-consuming data management work for your non-profit. We've got the skills to make your donors and members feel like VIPs, and we can help you reach any other goals you might have with our expertise in NationBuilder, non-profit tools, Zapier, and Salesforce. By taking care of all the back-end office tasks and automating data entry and spreadsheets, we're freeing you up to focus on what really matters.\n\n\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "# Grow with Wildflower - ###Hey there! Wildflower Labs is here to give you a hand with all that boring and time-consuming data management work for your non-profit. We've got the skills to make your donors and members feel like VIPs, and we can help you reach any other goals you might have with our expertise in NationBuilder, non-profit tools, Zapier, and Salesforce. By taking care of all the back-end office tasks and automating data entry and spreadsheets, we're freeing you up to focus on what really matters.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
